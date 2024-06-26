@@ -2,6 +2,12 @@ import React from 'react'
 import Link from 'next/link'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
+
+export const metadata = {
+  title: "About Page by MOS",
+  description: "NextJS About Page",
+};
+
 function AboutPage() {
   return (
     <div>
