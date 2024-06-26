@@ -9,8 +9,6 @@ import Nav from "../../components/Nav";
 function page() {
   return (
     <div>
-      <Header />
-      <Nav />
       <h3>Our Team</h3>
       <Image src={nextImg} width={300} height={100} alt='next image' />
       <Image src={vercelImg} width={300} height={100} alt='vercel image' />
