@@ -19,7 +19,8 @@ export default function Home() {
     <main >
       <Header />
       <Nav />
-      
+      <h3>Home Page</h3>
+      <p>This is home page</p>
     </main>
   );
 }
